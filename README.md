@@ -1,7 +1,16 @@
 # Kitchen Timer
-Embedded Systems Programming; University of Denver ENCE 3231
+Embedded Systems Programming;  
+University of Denver, ENCE 3231
 
-Guided class project: 
+Phase A: (guided)  
 Designing and building a kitchen timer Arduino shield. 
 - PCB design
 - Code development
+
+Phase B:
+
+
+Phase C:
+
+
+Phase D:
