@@ -2280,6 +2280,7 @@
     )
   )
 
+
   (junction (at 43.18 30.48) (diameter 0) (color 0 0 0 0)
     (uuid 1ac6a8f1-cfaa-4d56-991b-0d785a6ac6ec)
   )
@@ -3893,7 +3894,7 @@
     (property "Value" "22pF" (at 166.37 107.315 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (at 163.5252 109.22 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 163.5252 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 162.56 105.41 0)
